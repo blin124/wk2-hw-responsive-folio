@@ -1,0 +1,81 @@
+h1 {
+    color: rgba(0, 115, 255, 0.851);
+}
+
+.navbar-brand {
+    width: 20%;
+    height: 50px;
+    margin-left: 10px;
+    background: rgba(47, 141, 255, 0.851);
+    text-align: center;
+    font-size: 30px;
+}
+
+.jumbotron {
+    margin-left: 10px;
+}
+
+image {
+    float: none;
+}
+
+.btn:hover {
+    background-color: yellow;
+    color: black;
+}
+
+#wrapper {
+    min-height: 87vh;
+    max-width: 100%;
+}
+
+#container {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 5px;
+    background-color: white;
+    color: rgb(102, 41, 206);
+    
+}
+  
+.footer {
+    position: relative;/* negative value of footer height */
+    /* height: 150px; */
+    clear:both;
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+    color: white;
+    padding: 20px;
+    clear: both;
+    background: rgb(104, 104, 104);
+    margin-bottom: none;
+    
+}
+
+@media screen and (max-width: 980px) {
+    #wrapper {
+        width: 820px;
+    }
+    a.nav-link {
+        float: right;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    #wrapper {
+        width: 600px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    #wrapper {
+        width: 500px;
+    }
+}
