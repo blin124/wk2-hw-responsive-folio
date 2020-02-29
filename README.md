@@ -17,3 +17,15 @@ page uses Bootstrap
 includes navbar
 includes a sticky footer
 includes rows and columns
+
+github repository:
+https://github.com/blin124/wk2-hw-responsive-folio
+
+index.html (about me page)
+https://blin124.github.io/wk2-hw-responsive-folio/Assets/index.html
+
+contact.html (contact page)
+https://blin124.github.io/wk2-hw-responsive-folio/Assets/contact.html
+
+portfolio.html (portfolio page)
+https://blin124.github.io/wk2-hw-responsive-folio/Assets/portfolio.html
