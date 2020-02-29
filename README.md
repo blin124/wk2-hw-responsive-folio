@@ -29,3 +29,6 @@ https://blin124.github.io/wk2-hw-responsive-folio/Assets/contact.html
 
 portfolio.html (portfolio page)
 https://blin124.github.io/wk2-hw-responsive-folio/Assets/portfolio.html
+
+screenshots of htmls
+https://github.com/blin124/wk2-hw-responsive-folio/tree/master/screenshot%20images
