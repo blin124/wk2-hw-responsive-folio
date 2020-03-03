@@ -38,12 +38,10 @@ image {
     bottom: 5px;
     background-color: white;
     color: rgb(102, 41, 206);
-    
 }
   
 .footer {
-    position: relative;/* negative value of footer height */
-    /* height: 150px; */
+    position: relative;
     clear:both;
 }
 
@@ -55,7 +53,6 @@ footer {
     clear: both;
     background: rgb(104, 104, 104);
     margin-bottom: none;
-    
 }
 
 @media screen and (max-width: 980px) {
