@@ -72,10 +72,16 @@ footer {
     #wrapper {
         width: 600px;
     }
+    a.nav-link {
+        float: right;
+    }
 }
 
 @media screen and (max-width: 640px) {
     #wrapper {
         width: 500px;
+    }
+    a.nav-link {
+        float: right;
     }
 }
