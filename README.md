@@ -32,3 +32,6 @@ https://blin124.github.io/wk2-hw-responsive-folio/Assets/portfolio.html
 
 screenshots of htmls
 https://github.com/blin124/wk2-hw-responsive-folio/tree/master/screenshot%20images
+<img src="/screenshot%20images/contact.png" width="75%" height="50%">
+<img src="/screenshot%20images/index.png" width="75%" height="50%">
+<img src="/screenshot%20images/portfolio.png" width="75%" height="50%">
